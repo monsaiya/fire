@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">fire</string>
+
+    <string-array name="unit">
+        <item>W</item>
+        <item>KW</item>
+        <item>MA</item>
+        <item>A</item>
+
+    </string-array>
+
+    <string-array name="time">
+        <item>MINUTE</item>
+        <item>HOUR</item>
+
+
+    </string-array>
+    >
+</resources>
